@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: whitesmoke;
+  background-color: red;
 }
 .card {
   border: 1px solid rgb(193, 193, 193);
